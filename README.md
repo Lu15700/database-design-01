@@ -1,3 +1,6 @@
+## Description
+The design and modeling of a PostgreSQL database for a bicycle store.
+
 ## Tools
 - Draw.io
 

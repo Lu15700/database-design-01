@@ -4,8 +4,9 @@ The design and modeling of a PostgreSQL database for a bicycle store.
 ## Tools
 - Draw.io
 
+## Requirements
+
 ## Conceptual Schema
-![Conceptual Schema](https://github.com/Lu15700/database-design-01/assets/102251361/6dab6dfb-d0b4-462d-a6f5-e9d3a8040c14)
+![Conceptual Schema drawio](https://github.com/Lu15700/database_modeling_for_postgresql/assets/102251361/aa866155-5585-4338-9265-3ba65e2f8336)
 
 ## Logical Schema
-![Logical Schema](https://github.com/Lu15700/database-design-01/assets/102251361/ec8c5e91-6417-4ab3-9701-0abcf1d04e4c)
